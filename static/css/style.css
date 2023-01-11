@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Lbutton {
+    height: 40px;
+    width: 150px;
+    background-color: pink;
+    color: white;
+    border-radius: 20px 20px;
+    box-shadow: 2px 2px black;
+}
+
+.Rbutton {
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    color: white;
+    border-radius: 20px 20px;
+    box-shadow: 2px 2px black;
+}
